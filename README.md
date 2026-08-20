@@ -1,0 +1,1 @@
+# amp-gen-material-passport
