@@ -1,0 +1,11 @@
+{
+  "project": "Bill of Quantities for Principal's Residence (General-Modified)",
+  "source": "BoQ_CBRI_Principals_Residence.pdf",
+  "depth_of_foundation_m": 0.6,
+  "plinth_height_m": 0.45,
+  "plinth_area_m2": 90.6,
+  "number_of_items": 64,
+  "seismic_zone": "I to IV and V",
+  "bearing_capacity": "10 T/sq.m and above",
+  "brick_class_designation": "Not specified in scanned metadata block"
+}
